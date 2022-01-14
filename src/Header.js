@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <nav class="navbar navbar-expand-lg navbar-light bg-info">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">React</a>
+    <a >React</a>
     
     <div >
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">

@@ -28,7 +28,7 @@ export default function Addstudent() {
             
         }).then((d)=>{
             console.log(d.status)
-            if(d.status == 200){
+            if(d.status === 200){
                 swal("Good job!", "Add friend Successfully", "success");
 
             }
